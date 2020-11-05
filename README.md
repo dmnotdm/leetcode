@@ -12,5 +12,7 @@
 2020-10-29 12:05|[129. 求根到叶子节点数字之和](https://leetcode-cn.com/problems/sum-root-to-leaf-numbers/)|1
 2020-10-30 10:35|[463. 岛屿的周长](https://leetcode-cn.com/problems/island-perimeter/)|0
 2020-11-04 11:21|[57. 插入区间](https://leetcode-cn.com/problems/insert-interval/)|1
+2020-11-05 10:00|[50. Pow(x, n)](https://leetcode-cn.com/problems/powx-n/)|1
+2020-11-05 14:30|[127. 单词接龙](https://leetcode-cn.com/problems/word-ladder/)|0
 
 *为啥入参总是给个null，我真是佛了*
