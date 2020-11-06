@@ -5,29 +5,13 @@ package easy._1356;
  * @date 2020/11/06
  */
 class Solution {
-    private static final int[] n = new int[14];
     private static final int[] v = new int[10005];
 
     static {
-        n[0] = 1;
-        for (int i = 1; i < n.length; i++) {
-            n[i] = n[i - 1] << 1;
-        }
         for (int i = 0; i < v.length; i++) {
-            v[i] = size(i);
+            v[i] = Integer.bitCount(i);
         }
     }
-
-    private static int size(int x) {
-        int re = 0;
-        for (int i : n) {
-            if ((i & x) == i) {
-                re++;
-            }
-        }
-        return re;
-    }
-
 
     public int[] sortByBits(int[] arr) {
         sort(arr, 0, arr.length - 1);
