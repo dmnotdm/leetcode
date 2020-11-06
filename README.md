@@ -14,5 +14,6 @@
 2020-11-04 11:21|[57. 插入区间](https://leetcode-cn.com/problems/insert-interval/)|1
 2020-11-05 10:00|[50. Pow(x, n)](https://leetcode-cn.com/problems/powx-n/)|1
 2020-11-05 14:30|[127. 单词接龙](https://leetcode-cn.com/problems/word-ladder/)|0
+2020-11-06 11:39|[1356. 根据数字二进制下 1 的数目排序](https://leetcode-cn.com/problems/sort-integers-by-the-number-of-1-bits/)|0
 
 *为啥入参总是给个null，我真是佛了*
