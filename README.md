@@ -16,5 +16,6 @@
 2020-11-05 14:30|[127. 单词接龙](https://leetcode-cn.com/problems/word-ladder/)|0
 2020-11-06 11:39|[1356. 根据数字二进制下 1 的数目排序](https://leetcode-cn.com/problems/sort-integers-by-the-number-of-1-bits/)|0
 2020-11-09 10:30|[973. 最接近原点的 K 个点](https://leetcode-cn.com/problems/k-closest-points-to-origin/)|0
+2020-11-10 10:47|[31. 下一个排列](https://leetcode-cn.com/problems/next-permutation/)|1
 
 *为啥入参总是给个null，我真是佛了*
