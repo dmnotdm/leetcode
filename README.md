@@ -20,5 +20,6 @@
 2020-11-11 17:04|[514. 自由之路](https://leetcode-cn.com/problems/freedom-trail/)|1
 2020-11-13 10:33|[328. 奇偶链表](https://leetcode-cn.com/problems/odd-even-linked-list/)|0
 2020-11-17 18:50|[1030. 距离顺序排列矩阵单元格](https://leetcode-cn.com/problems/matrix-cells-in-distance-order/)|0
+2020-11-30 11:40|[767. 重构字符串](https://leetcode-cn.com/problems/reorganize-string/)|0
 
 *为啥入参总是给个null，我真是佛了*
